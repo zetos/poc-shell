@@ -1,0 +1,7 @@
+mail
+server
+dev
+prod
+public
+adm
+admin
